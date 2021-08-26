@@ -1,6 +1,6 @@
 {
 	"ip":"SGUminecraft.aternos.me",
-	"port": "25565",
+	"port": "40384",
 	"name": "afkbot1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
